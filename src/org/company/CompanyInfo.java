@@ -15,6 +15,7 @@ public class CompanyInfo {
 		private void companyAddress() {
 			
 			System.out.println(" address ");
+			System.out.println("hello");
 		}
 		
 		public static void main(String[] args) {
